@@ -1,0 +1,3 @@
+This is a scalping Trading Strategy optimization using CandleStick Wick length pattern to confirm price momentum along with 3 moving exponential averages to estimate if the price trend is up or down. The backtest is carried out in Python using an algorithmic trading approach to compare the results. Accordingly we will decide to take long or short positions based on moving average slopes and the candlestick wick length depending if the trend is down or up.
+
+YT : https://www.youtube.com/watch?v=ZoCpme03sVI

@@ -1,0 +1,3 @@
+This video describes the Engulfing Candlestick Patterns, bullish and bearish engulfing candles and statistics are carried out in python to check if these patterns are a significant indicator or not. Algorithmic trading relies on statistics, and candlestick patterns are considered a strong indicator of market price change. Statistics are carried out on historical data from 2003 till 2019.
+
+YT Link : https://www.youtube.com/watch?v=33qz3LIdwKo

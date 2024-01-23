@@ -1,0 +1,9 @@
+This python program uses Machine Learning models to train on basic and well-known technical indicators, such as RSI, ATR, CCI, Stochastic RSI, and Stochastic Oscillator, to provide you with accurate trading predictions.
+
+The best technical indicator for algorithmic or algo trading can be obtained from Machine Learning models and the results depend on your trading strategy. This is a python program where a Machine Learning model is trained using technical indicators and the results of predictions are displayed with the importance of each technical indicator, the indicators used are basic and well known, e.g., RSI, ATR, CCI, Stochastic RSI, Stochastic Oscillator and other technical indicators.
+
+The results of our Machine Learning models depend on your specific trading strategy, allowing for personalized and tailored predictions. With the presented program, you'll see the importance of each technical indicator displayed for each prediction, helping you make informed trading decisions.
+
+The Python program is designed specifically for algo trading and is based on the latest techniques in Machine Learning. By understanding the presented technique you'll gain a competitive edge in the market and improve your chances of success.
+
+https://www.youtube.com/watch?v=tNFnACpzxVw

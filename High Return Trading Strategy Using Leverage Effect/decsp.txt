@@ -1,0 +1,4 @@
+Here we Backtest an Algorithmic Trading Strategy using Python on a Leverage Account.  The leverage can be a variable depending on the strategy you are intending to use. Trading Algorithmic Strategies can be easily backtested in python and the results are shown in the returns percentage.
+Trying to find the perfect Algorithmic Trading Strategy is not easy but some strategies can be surprisingly positive.
+
+https://www.youtube.com/watch?v=-Mk4S2Ci-eA

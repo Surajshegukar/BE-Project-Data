@@ -1,0 +1,3 @@
+we focus mainly on the shooting star rejection pattern and combined with the RSI we build our custom technical indicator. Then a Backtest on the USD JPY exchange rates confirms the power of candlestick predictions especially when combined with other technical indicators like the RSI (relative strength indicator)
+
+Youtube Link : https://www.youtube.com/watch?v=eN4zh3PEH6c
